@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 2.8)
 
 
-#set(CMAKE_TOOLCHAIN_FILE "/opt/mxe/usr/i686-w64-mingw32.static/share/cmake/mxe-conf.cmake")
+set(CMAKE_TOOLCHAIN_FILE "/usr/lib/mxe/usr/i686-w64-mingw32.static/share/cmake/mxe-conf.cmake")
 
 PROJECT(StaticQt)
 
