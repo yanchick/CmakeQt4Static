@@ -21,3 +21,4 @@ install:
 
 script:
     - /usr/lib/mxe/usr/x86_64-unknown-linux-gnu/bin/cmake CMakeLists.txt
+    - make
